@@ -20,9 +20,10 @@ The first model Contagio has the following files:
   1.Dataset_contagio_Final.ipynb
   2.first_final_infection_dataset.csv
   3.final_infection_dataset.csv
-  4.Risk_by_region.csv
-  5.First_RandomForest_Contagio.ipynb
-  6.RandomForest_Contagio.ipynb
+  4.Zona_riesgo_01.ipynb
+  5.Risk_by_region.csv
+  6.First_RandomForest_Contagio.ipynb
+  7.RandomForest_Contagio.ipynb
 
 The second model severity has the following files:
   1.Dataset_Gravedad_Final.ipynb
@@ -31,6 +32,5 @@ The second model severity has the following files:
   
 Real dataset (Mexico):
   200502COVID19MEXICO.csv
+  Dataset MEX ML.ipynb
   RandomForest Dataset MEX ML.ipynb
-  XgBoost Dataset MEX ML.ipynb4
-
