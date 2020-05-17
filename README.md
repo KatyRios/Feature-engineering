@@ -12,7 +12,7 @@ We have faced the problem of insufficient real datasets with which to train our 
 
 Since the model is designed to work with real datasets, we considered highly relevant to implement a very exhaustive process to control the quality of the data.
 
-Our model works in a simple way. Based on the papers and data analysis, we have given weights to the variables to calculate a final probability as an output. We have used this probability to classify users into three different states: not suspicious, suspicious without symptoms and suspicious with symptoms. In addition, we went even deeper, detailing the kind of severity the user might have if infected. For the severity part, we have applied this algorithm on a simulated dataset so that in the future you can learn about the real data and the variables analyzed. 
+Our model works in a simple way. Based on the papers and data analysis, we have given weights to the variables to calculate a final probability as an output, which is the target of the model. We have used this probability to classify users into three different states: not suspicious, suspicious without symptoms and suspicious with symptoms. In addition, we went even deeper, detailing the kind of severity the user might have if infected. For the severity part, we have applied this algorithm on a simulated dataset so that in the future you can learn about the real data and the variables analyzed. 
 
 In the model we have included plots and histograms that allow us to evaluate the validity of the data studied.
 
