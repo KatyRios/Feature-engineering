@@ -17,20 +17,23 @@ Our model works in a simple way. Based on the papers and data analysis, we have 
 In the model we have included plots and histograms that allow us to evaluate the validity of the data studied.
 
 The first model Contagio has the following files:
+
   1.Dataset_contagio_Final.ipynb
   2.first_final_infection_dataset.csv -> https://drive.google.com/file/d/1R-2h-UQUI4lo8-C5p7OisvLRqJkzyVQY/view?usp=sharing
-  3.final_infection_dataset.csv
+  3.final_infection_dataset.csv -> https://drive.google.com/file/d/1-EiLWa4PJtlsbT6t-faHABYuwgMDlL3Q/view?usp=sharing
   4.Zona_riesgo_01.ipynb
   5.Risk_by_region.csv
   6.First_RandomForest_Contagio.ipynb
   7.RandomForest_Contagio.ipynb
 
 The second model severity has the following files:
+
   1.Dataset_Gravedad_Final.ipynb
   2.final_severity_dataset.csv
   3.RandomForest_Gravedad.ipynb
   
 Real dataset (Mexico):
-  200502COVID19MEXICO.csv
-  Dataset MEX ML.ipynb
-  RandomForest Dataset MEX ML.ipynb
+
+  1.200502COVID19MEXICO.csv
+  2.Dataset MEX ML.ipynb
+  3.RandomForest Dataset MEX ML.ipynb
